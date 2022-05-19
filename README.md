@@ -1,14 +1,15 @@
-# Netflix-Checker
-Netflix account checker
-A simple Python Script for check a list of accounts in txt file.<br>
-The script check one by one email and passwords. <br>
-Accounts works will be displayed in a txt file called worksAcc.txt.<br>
+__Checker Netflix__
 
-## Install mechanize
-using pip: `pip install mechanize`. <br>
+Checker de compte Netflix. C'est un simple script Python pour vérifier une liste de comptes dans un fichier .txt
+Le script vérifie un par un les e-mails et les mots de passe
+Les résultats seront affichés dans un fichier .txt nommé worksAcc.txt.
 
-## Running script
-run `python check_acc_netflix.py`. <br>
+**Installer Mechanize**
 
-If you use it multiple times, use a vpn :).
-Netflix limits the number of connection attempts.
+en utilisant pip : `pip install mechanize`
+
+**Lancer le script**
+
+en utilisant cette commande : `python check_acc_netflix.py`
+
+*Toutes les commandes sont à taper dans un CMD ouvert à partir de la barre d'adresse du dossier dans lequel vous avez extrait les fichiers* (en tapant cmd dans la barre d'adresse du dossier)
